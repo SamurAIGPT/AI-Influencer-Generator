@@ -1,41 +1,104 @@
-# AI Influencer
+# AI Influencer Generator
 
-Create your virtual AI influencer for free with open-source technologies
+[![GitHub stars](https://img.shields.io/github/stars/SamurAIGPT/AI-Influencer-Generator?style=social)](https://github.com/SamurAIGPT/AI-Influencer-Generator/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/SamurAIGPT/AI-Influencer/blob/main/AI_Influencer.ipynb)
 
-Link to medium tutorial :- https://medium.com/@anilmatcha/ai-influencer-automation-to-earn-10k-month-for-free-b8936212bcb9 
+Create and customize your own virtual AI influencer completely for free using open-source technologies.
 
-### Demo Video
+## Tutorial
+
+Read the full guide: [AI Influencer Automation to Earn $10K/Month](https://medium.com/@anilmatcha/ai-influencer-automation-to-earn-10k-month-for-free-b8936212bcb9)
+
+## Demo
 
 https://github.com/user-attachments/assets/c5c27c58-7f3d-450e-a1dc-26984a0d2c05
 
-🌟 Show Support
+## Features
 
-If you enjoy using AI Influencer, we'd appreciate your support with a star ⭐ on our repository. Your encouragement is invaluable and inspires us to continually improve and expand AI Influencer. Thank you, and happy content creation! 🎉
+- **AI Image Generation** - Create unique influencer personas with Stable Diffusion
+- **Text-to-Speech** - Generate natural voiceovers with gTTS
+- **Lip Sync Animation** - Bring images to life with SadTalker
+- **Consistent Characters** - Maintain the same AI persona across content
+- **Fully Open Source** - No paid APIs required for core functionality
 
-[![GitHub star chart](https://img.shields.io/github/stars/SamurAIGPT/AI-Influencer?style=social)](https://github.com/SamurAIGPT/AI-Influencer/stargazers)
+## How It Works
 
-### Steps to run
+```
+Prompt → Stable Diffusion Image → gTTS Audio → SadTalker Video → AI Influencer Content
+```
 
-Open the colab notebook from [here](https://github.com/SamurAIGPT/AI-Influencer/blob/main/AI_Influencer.ipynb) and run all the steps one-by-one
+1. **Design Your Persona** - Use AI to generate consistent character images
+2. **Create Scripts** - Write or generate content for your influencer
+3. **Generate Voice** - Convert scripts to speech with text-to-speech
+4. **Animate** - Use lip-sync technology to create talking videos
+5. **Publish** - Post content to social media platforms
 
-### Technologies used
+## Quick Start
 
-gTTS for text to speech
+### Option 1: Google Colab (Recommended)
 
-Sad-Talker for lip-sync
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/SamurAIGPT/AI-Influencer/blob/main/AI_Influencer.ipynb)
 
-OpenAI for generating prompt for AI image generation
+1. Open the notebook in Google Colab
+2. Run each cell sequentially
+3. Customize your AI influencer
+4. Download your generated content
 
-Stable diffusion for image generation
+### Option 2: Local Setup
 
-## 💁 Contribution
+```bash
+# Clone the repository
+git clone https://github.com/SamurAIGPT/AI-Influencer-Generator.git
+cd AI-Influencer-Generator
 
-As an open-source project we are extremely open to contributions. To get started raise an issue in Github or create a pull request
+# Install dependencies
+pip install -r requirements.txt
 
-### Other useful AI Projects
+# Run the notebook
+jupyter notebook AI_Influencer.ipynb
+```
 
-[AI Youtube Shorts generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator/)
+## Tech Stack
 
-[Faceless Video Generator](https://github.com/SamurAIGPT/Faceless-Video-Generator)
+| Technology | Purpose |
+|------------|---------|
+| Stable Diffusion | AI image generation |
+| gTTS | Text-to-speech |
+| SadTalker | Lip-sync animation |
+| OpenAI GPT | Prompt generation |
 
-[Text to Video AI](https://www.vadoo.tv/text-to-video-ai)
+## Use Cases
+
+- **Social Media Content** - Instagram, TikTok, YouTube
+- **Brand Ambassadors** - Create virtual product representatives
+- **Educational Content** - AI tutors and presenters
+- **Entertainment** - Virtual characters and personas
+
+## Tips for Success
+
+1. **Consistency** - Use similar prompts to maintain character appearance
+2. **Quality Audio** - Clear scripts produce better lip-sync results
+3. **Lighting** - Generated images with good lighting animate better
+4. **Resolution** - Higher resolution images produce better videos
+
+## Contributing
+
+Contributions are welcome! Feel free to submit a Pull Request.
+
+If you enjoy using AI Influencer, please give us a star to show your support!
+
+## Follow for Updates
+
+- [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11)
+- [Ankur Singh](https://twitter.com/ankur_maker)
+
+## Related Projects
+
+- [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) - Generate YouTube Shorts automatically
+- [AI-Faceless-Video-Generator](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) - Create talking face videos
+- [Text-To-Video-AI](https://www.vadoo.tv/text-to-video-ai) - Text to video generation
+
+## License
+
+MIT License - see [LICENSE](LICENSE) for details.
