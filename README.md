@@ -8,10 +8,14 @@ Create and customize your own virtual AI influencer completely for free using op
 
 ## Related Projects
 
+- [MuAPI](https://muapi.ai) — Unified API for image, video, and audio generation across hundreds of AI models. Explore the [image and video playground](https://muapi.ai/playground) and [access keys](https://muapi.ai/access-keys).
 - [Free-AI-Social-Media-Scheduler](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler) — Schedule your AI influencer content across all social platforms automatically
 - [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) — Generate AI UGC video ads with realistic AI actors
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — Free open-source studio for 200+ AI image & video models
 - [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) — free curriculum teaching creators how to monetize AI influencer content
+- [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) — Generate YouTube Shorts automatically
+- [AI-Faceless-Video-Generator](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) — Create talking face videos
+- [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) — Text to video generation
 
 ## Tutorial
 
@@ -99,12 +103,6 @@ If you enjoy using AI Influencer, please give us a star to show your support!
 
 - [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11)
 - [Ankur Singh](https://twitter.com/ankur_maker)
-
-## Related Projects
-
-- [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) - Generate YouTube Shorts automatically
-- [AI-Faceless-Video-Generator](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) - Create talking face videos
-- [Text-To-Video-AI](https://www.vadoo.tv/text-to-video-ai) - Text to video generation
 
 ## License
 
